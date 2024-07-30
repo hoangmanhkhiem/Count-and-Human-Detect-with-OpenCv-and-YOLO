@@ -7,6 +7,10 @@
   
 `pip install numpy opencv-python`
 
+## Download Weight
+
+[YOLOv8 weights](https://drive.google.com/file/d/1qKRhnQBLhuenRcpKHh-DJur_41idcMSY/view?usp=sharing)
+
 
 ## Edit the configuration file
 
